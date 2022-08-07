@@ -8,3 +8,4 @@
 &emsp;&emsp;python server.py xxxx   # xxxx為port數字  
 &emsp;&emsp;模板回覆版本:  
 &emsp;&emsp;python demo_server.py xxxx      # xxxx為port數字  
+&emsp;&emsp;(模板回覆版本可參閱使用說明)
