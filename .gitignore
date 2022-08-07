@@ -1,2 +1,4 @@
 env/
 test.py
+model/
+rustup-init.exe
