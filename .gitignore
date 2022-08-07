@@ -1,4 +1,6 @@
 env/
 test.py
-model/
+model/model_emo
+model/model_gen
+model/tokenizer_gen
 rustup-init.exe
