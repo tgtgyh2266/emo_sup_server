@@ -201,7 +201,6 @@ class web_server_template:  ##宣告一個class,在下文的web.application實�
 
         return_json = {'results':result,'return_message':passing_information}
         return_data = json.dumps(return_json,sort_keys=True,separators=(',',':'),ensure_ascii=False) ##打包回傳信息為json
-
         return return_data  ##回傳
 
     def GET(self):
